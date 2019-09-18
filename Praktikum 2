@@ -1,0 +1,9 @@
+public class prak2 {
+    public static void main(String[] args) {
+        int bilangan[] = {1, 2, 3, 4, 5, 6, 7, 8};
+        for (int i = 0; i < bilangan.length; i++) {
+            System.out.println(bilangan[i]);
+            
+        }
+    }
+}
